@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pepermint Ice Cream 
 Cereal 
 Shawarma
+=======
+Amadeus 
+The Fifth Element
+The Gladiator
+>>>>>>> movies
